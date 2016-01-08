@@ -1,6 +1,6 @@
 {
   "name": "tauCharts",
-  "version": "0.7.3",
+  "version": "0.7.4",
   "homepage": "https://github.com/TargetProcess/tauCharts",
   "description": "D3 based data-focused charting library",
   "keywords": [
@@ -20,7 +20,7 @@
   ],
   "dependencies": {
     "d3": "~3.5.5",
-    "underscore": "~1.8.2"
+    "lodash": "^3.10.1"
   },
   "devDependencies": {
     "modernizer": "2.8.2",
